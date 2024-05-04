@@ -29,3 +29,5 @@ Now we'll read existing file using **fs module** by Synchronous and Async Method
     })
 
     🔸Note :- The only difference b/w both the methods is Sync method return the value and Async Method donot return any value. 
+
+ 
