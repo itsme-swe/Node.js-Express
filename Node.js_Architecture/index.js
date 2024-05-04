@@ -19,7 +19,8 @@ console.log(data);
 
 console.log(2);
 
-/* output of upper code  
+/* output of Blocking-operation  
+
     1
     Harsh: 9571299002,
     Mom: 900090022
@@ -42,7 +43,14 @@ fs.readFile('./contacts.txt', 'utf-8', (err, result) => {
 
 console.log("World");
 
-  
+/* Output of non-blocking operation
+
+Hello
+World
+Harsh: 9571299002,
+Mom: 900090022
+
+*/
 
 
 
